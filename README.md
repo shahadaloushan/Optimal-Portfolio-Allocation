@@ -21,5 +21,57 @@ Next, you turn to dynamic programming, a more sophisticated strategy. Instead of
 
 
 
+
+
+
+
+
+
+
 The Comparison: Efficiency and Runtime
 With both methods implemented, you set out to compare their performance. For different portfolio sizes and investment amounts, you measure how quickly each algorithm finds the optimal solution and how efficiently they use computational resources. The brute force method, while thorough, often takes much longer, especially as the number of assets increases. Dynamic programming, on the other hand, quickly proves its worth by solving complex allocation problems in a fraction of the time.
+
+
+
+
+
+
+This guide will walk you through the simple steps to use the project on GitHub.
+
+A) Download the Project:
+Clone or download the project files from the project's GitHub repository to your computer.
+Prepare Your Input:
+
+
+
+
+
+B) Download a text file named Example1.txt and Example2.txt
+you can use the once in the file or you can enter your asset details, total investment, and risk tolerance in the specified format within the text file.
+
+
+
+
+C) Compile and Run:
+Compile and run either BruteForcePortfolioAllocator.java for the Brute Force Allocator or DynamicPortfolioAllocator.java for the Dynamic Allocator.Both programs will read the input from the Example1.txt or Example2.txt file and generate the optimal asset allocation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
